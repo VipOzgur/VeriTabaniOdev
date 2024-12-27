@@ -1,0 +1,37 @@
+# Windows Build Output
+bin/
+obj/
+.vs/
+
+# Windows user-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer logs
+*.log
+
+# .NET Core specific files
+project.lock.json
+project.fragment.lock.json
+*.[Cc]ache
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# JetBrains Rider IDE files
+.idea/
+
+# Visual Studio Code settings
+.vscode/
+
+# Environment files
+.env
+
